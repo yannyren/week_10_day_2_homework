@@ -21,16 +21,16 @@ describe("Park", function() {
     assert.strictEqual(park1.enclosure.length, 1);
   })
 
-  it("should be able to remove all dinosaurs of a particular type", function(){
-    park1.addDinosaur(dinosaur1);
-    park1.removeDinosaurOfAType(dinosaur1);
-    assert.strictEqual(park1.,);
-  })
+  // it("should be able to remove all dinosaurs of a particular type", function(){
+  //   park1.addDinosaur(dinosaur1);
+  //   park1.removeDinosaurOfAType(dinosaur1);
+  //   assert.strictEqual(park1.,);
+  // })
 
-  it("should get all the dinosaurs with an offspring count of more than 2", function(){
+  // it("should get all the dinosaurs with an offspring count of more than 2", function(){
 
-    assert.strictEqual(,);
-  })
+  //   assert.strictEqual(,);
+  // })
 
   
 
